@@ -28,3 +28,6 @@ This analysis focuses on the Manufacturing and Inventory part of the data. Micro
 - Production WorkOrderRouting - Production work order scheduling data and details
 - Sales SalesOrderDetail - Transactional Sales Data
 
+## Conclusion
+
+This is an extensive database and a lot more can be done using the tables provided. Imagination is the limit here. Let me know if you have any questions about the process of making this dashboard. You can access the PBIX file on my Github repository.
