@@ -16,3 +16,15 @@ This analysis focuses on the Manufacturing and Inventory part of the data. Micro
 •[SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 
+## Tables used in this model
+
+- Production Location - Has Production assembly data, 1.e. Parts used to manufacture each product are defined here with an assembly location category
+- Production Product - Data related to products, their physical details, price, etc.
+- Production ProductCategory - Products and their defined categories
+- Production ProductSubcategory - Products and their subcategories
+- Production ProductInventory - Inventory data of the produced products
+- Production ScrapReason - Waste Data related to manufacturing
+- Production WorkOrder - Production transactions and related data
+- Production WorkOrderRouting - Production work order scheduling data and details
+- Sales SalesOrderDetail - Transactional Sales Data
+
